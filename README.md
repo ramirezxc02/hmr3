@@ -1,2 +1,3 @@
 # hmr3
-My repository
+
+Hello this is my portfolio.

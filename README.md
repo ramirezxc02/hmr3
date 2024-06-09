@@ -1,3 +1,3 @@
-# hmr3
+# My portfolio
 
 Hello this is my portfolio.
